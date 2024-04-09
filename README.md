@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🌱 About me 
 - Studying Computer Science at the University of Toronto
-- Currently working on my comprehensive realtime messaging application
+- Currently working on my comprehensive realtime messaging application called TextMe
 - Interested in all aspects of software development and CS! From full-stack development to ML/AI and HCI
 
 ## 📬 Reach out to me! 
